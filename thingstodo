@@ -1,0 +1,19 @@
+Password DONE
+  - less than 6
+  - 6 to 15
+  - 16 to 
+Character List (lowcase, uppercase, number, symbol) DONE
+Decimal ASCII Character DONE
+  - lowcase (97 to 122)
+  - uppercase (65 to 90)
+  - number (48 to 57)
+  - symbol (33 to 47, 58 to 64, 91 to 96, 123 to 126)
+  - source : http://www.asciichart.com/ascii_decimal.html
+Include Character DONE
+Exclude Similar Character DONE
+Multiple password
+Validate that we have one of each character List
+  - string.find
+
+
+re.search
